@@ -2,11 +2,11 @@
 
 ![React budget calculator app](README.png?raw=true "React budget calculator app")
 
-### <a href="https://marius-resume-app.herokuapp.com/">LIVE DEMO</a>
+### <a href="https://marius-adam.github.io/react-budget-calculator/">LIVE DEMO</a>
 
 ## Description
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I build this budget calculator as a result of a tutorial I found on YouTube about React Hooks. Hooks are functions that let you “hook into” React state and lifecycle features from function components and they were the new addition in React 16.8 update.
 
 ## Available Scripts
 
