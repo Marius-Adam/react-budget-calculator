@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-budget-calculator/static/css/main.535c005a.chunk.css",
+    "main.js": "/react-budget-calculator/static/js/main.c1e343c1.chunk.js",
+    "main.js.map": "/react-budget-calculator/static/js/main.c1e343c1.chunk.js.map",
+    "runtime-main.js": "/react-budget-calculator/static/js/runtime-main.26ffb01b.js",
+    "runtime-main.js.map": "/react-budget-calculator/static/js/runtime-main.26ffb01b.js.map",
+    "static/js/2.62938e40.chunk.js": "/react-budget-calculator/static/js/2.62938e40.chunk.js",
+    "static/js/2.62938e40.chunk.js.map": "/react-budget-calculator/static/js/2.62938e40.chunk.js.map",
+    "index.html": "/react-budget-calculator/index.html",
+    "precache-manifest.fa87725edd8c20c3854bc591f74d3b84.js": "/react-budget-calculator/precache-manifest.fa87725edd8c20c3854bc591f74d3b84.js",
+    "service-worker.js": "/react-budget-calculator/service-worker.js",
+    "static/css/main.535c005a.chunk.css.map": "/react-budget-calculator/static/css/main.535c005a.chunk.css.map",
+    "static/js/2.62938e40.chunk.js.LICENSE.txt": "/react-budget-calculator/static/js/2.62938e40.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26ffb01b.js",
+    "static/js/2.62938e40.chunk.js",
+    "static/css/main.535c005a.chunk.css",
+    "static/js/main.c1e343c1.chunk.js"
+  ]
+}
